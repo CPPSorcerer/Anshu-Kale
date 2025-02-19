@@ -42,8 +42,7 @@ A Kaggle project predicting ‘too tired to work’ events using PPG time-series
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CPPSorcerer&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPPSorcerer&layout=compact)  
-![Profile Views](https://komarev.com/ghpvc/?username=CPPSorcerer&color=blue)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CPPSorcerer&theme=onedark)  
+![Profile Views](https://komarev.com/ghpvc/?username=CPPSorcerer&color=blue) 
 
 ---
 
